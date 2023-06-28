@@ -1,0 +1,10 @@
+{
+  "properties": {
+    "credentials": {
+      "instrumentationKey": "{{Logger-Credentials--649bf836733e3318e41dd196}}"
+    },
+    "isBuffered": true,
+    "loggerType": "applicationInsights",
+    "resourceId": "/subscriptions/08e60e02-848b-479e-a6c2-b88a7dfc5a63/resourceGroups/az-apim-demo-dev-rg/providers/microsoft.insights/components/az-appinsights-dev"
+  }
+}

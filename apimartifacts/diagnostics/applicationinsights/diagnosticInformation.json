@@ -1,0 +1,36 @@
+{
+  "properties": {
+    "alwaysLog": "allErrors",
+    "backend": {
+      "request": {
+        "dataMasking": {
+          "queryParams": [
+            {
+              "mode": "Hide",
+              "value": "*"
+            }
+          ]
+        }
+      }
+    },
+    "frontend": {
+      "request": {
+        "dataMasking": {
+          "queryParams": [
+            {
+              "mode": "Hide",
+              "value": "*"
+            }
+          ]
+        }
+      }
+    },
+    "httpCorrelationProtocol": "Legacy",
+    "logClientIp": true,
+    "loggerId": "/subscriptions/08e60e02-848b-479e-a6c2-b88a7dfc5a63/resourceGroups/az-apim-demo-dev-rg/providers/Microsoft.ApiManagement/service/az-apim-demo-dev-consumption01/loggers/az-appinsights-dev",
+    "sampling": {
+      "percentage": 100,
+      "samplingType": "Fixed"
+    }
+  }
+}
