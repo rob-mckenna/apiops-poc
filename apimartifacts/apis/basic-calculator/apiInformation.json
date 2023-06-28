@@ -7,9 +7,9 @@
     "isCurrent": true,
     "path": "calc",
     "protocols": [
-      "http"
+      "https"
     ],
-    "serviceUrl": "http://calcapi.cloudapp.net/api",
+    "serviceUrl": "http://az-apim-demo-dev-consumption01.azure-api.net/calc",
     "subscriptionKeyParameterNames": {
       "header": "Ocp-Apim-Subscription-Key",
       "query": "subscription-key"

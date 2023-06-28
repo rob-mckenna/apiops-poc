@@ -4,7 +4,7 @@ info:
   description: Arithmetics is just a call away!
   version: '1.0'
 servers:
-  - url: http://az-apim-demo-dev-consumption01.azure-api.net/calc
+  - url: https://az-apim-demo-dev-consumption01.azure-api.net/calc
 paths:
   /add:
     get:

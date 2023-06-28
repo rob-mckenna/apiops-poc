@@ -9,6 +9,7 @@
     "protocols": [
       "https"
     ],
+    "serviceUrl": "https://az-apim-demo-dev-consumption01.azure-api.net/az-func-poc-001",
     "subscriptionKeyParameterNames": {
       "header": "Ocp-Apim-Subscription-Key",
       "query": "subscription-key"

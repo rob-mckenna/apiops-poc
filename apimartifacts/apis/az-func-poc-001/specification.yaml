@@ -9,16 +9,18 @@ paths:
   /HttpExample:
     get:
       summary: HttpExample
+      description: HttpExample
       operationId: get-httpexample
       responses:
         '200':
-          description: 
+          description: ''
     post:
       summary: HttpExample
+      description: HttpExample
       operationId: post-httpexample
       responses:
         '200':
-          description: 
+          description: ''
 components:
   securitySchemes:
     apiKeyHeader:
