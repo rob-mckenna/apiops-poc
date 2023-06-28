@@ -1,0 +1,11 @@
+{
+  "properties": {
+    "displayName": "az-func-poc-001-key",
+    "secret": true,
+    "tags": [
+      "key",
+      "function",
+      "auto"
+    ]
+  }
+}
