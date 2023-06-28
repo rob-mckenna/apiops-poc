@@ -7,7 +7,7 @@
         ]
       }
     },
-    "description": "az-func-poc",
+    "description": "az-func-poc-001",
     "protocol": "http",
     "resourceId": "https://management.azure.com/subscriptions/08e60e02-848b-479e-a6c2-b88a7dfc5a63/resourceGroups/az-func-poc-rg/providers/Microsoft.Web/sites/az-func-poc-001",
     "tls": {
